@@ -1076,6 +1076,9 @@
     .header-section p {
         font-size: 1rem;
     }
+    .navbar img{
+        width: 60%;
+    }
     .title-contect{
         display: none;
     }
@@ -1280,6 +1283,13 @@
         border-left: 47vw solid transparent;
         border-bottom: 18vw solid red;
         border-top: 18vw solid transparent;
+    }
+    .br-title h1{
+        padding: 2rem 1rem;
+        font-size: 1.8rem;
+    }
+    .br-title{ 
+        padding: 0;
     }
     .detail-box{
             display: flex;
