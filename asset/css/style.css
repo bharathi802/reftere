@@ -612,8 +612,9 @@
 .input-detail {
     font-size: 1rem;
     padding-top: 2rem;
+}
+.br .container{
     box-shadow: inset 1px 1px 20px #eee, inset -1px -1px 20px #eee;
-
 }
 
 .detail-box>span {
@@ -1286,7 +1287,10 @@
     }
     .br-title h1{
         padding: 2rem 1rem;
-        font-size: 1.8rem;
+        font-size: 1.6rem;
+    }
+    .br-top{
+        font-size: 1.3rem;
     }
     .br-title{ 
         padding: 0;
@@ -1296,10 +1300,7 @@
             justify-content: center;
             align-items: center;
     }
-
-    .input-detail {
-        margin: 2rem;
-    }
+    
     .detail-box input{
         width: 90%;
     }
@@ -1329,6 +1330,9 @@
     }
     .car-position h3 {
         font-size: 1.2rem;
+    }
+    .car-img{
+        left: 1rem;
     }
     .hes-img {
         width: 100vw;
